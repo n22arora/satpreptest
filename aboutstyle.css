@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+.cards{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 25px;
+    height: auto;
+    overflow-y: auto;
+}
+.img-cards{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 60px;
+    height: auto;
+}
+p1{
+    font-size: 25px;
+}
+
+p2{
+    font-size: 20px;
+    width: 50%;
+    max-width: 500px;
+}
+
+p3{
+   font-size: 25px; 
+}
+
+li {
+    font-size: 30px;
+
+}
+
+li span{
+    float: right;
+}
+
+ul{
+    overflow: auto;
+}
